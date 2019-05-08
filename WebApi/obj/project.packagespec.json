@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\WebApi\\WebApi\\WebApi\\WebApi.csproj",
+    "projectUniqueName": "H:\\WebApi\\WebApi\\WebApi\\WebApi.csproj",
     "projectName": "WebApi",
-    "projectPath": "E:\\WebApi\\WebApi\\WebApi\\WebApi.csproj",
-    "outputPath": "E:\\WebApi\\WebApi\\WebApi\\obj\\",
+    "projectPath": "H:\\WebApi\\WebApi\\WebApi\\WebApi.csproj",
+    "outputPath": "H:\\WebApi\\WebApi\\WebApi\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

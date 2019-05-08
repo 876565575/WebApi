@@ -4551,7 +4551,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Tools/2.2.4": {
-      "sha512": "9n1Mv6FrFmlVkkXVkO7U71GG42CfRjlKV0bca++UYjsmmtVVds4PhUjgVrHCh3ZTRI4jqBc5Y7trUvwdwXisPw==",
+      "sha512": "5TYZQLKhj/zVeletm28nu9MSXsQtFTIrv9/Xdc1V2gYcETsRv6ktslnvcPd4VwPc7g92f7mCcYsjmtolwDOjhw==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.tools/2.2.4",
       "hasTools": true,
@@ -5341,11 +5341,12 @@
       ]
     },
     "Microsoft.Win32.Primitives/4.0.1": {
-      "sha512": "fQnBHO9DgcmkC9dYSJoBqo6sH1VJwJprUHh8F3hbcRlxiQiBUuTntdk8tUwV490OqC2kQUrinGwZyQHTieuXRA==",
+      "sha512": "OCvTpmNJ4Hf99iKmmi2eKgfRUUPPI49Pohx08sHlWS+LqX5vuVbBxpygz066kcpKfTyO8ZUonFoOlbysUueUvg==",
       "type": "package",
       "path": "microsoft.win32.primitives/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5712,7 +5713,7 @@
       ]
     },
     "runtime.native.System.Security.Cryptography/4.0.0": {
-      "sha512": "2CQK0jmO6Eu7ZeMgD+LOFbNJSXHFVQbCJJkEyEwowh1SCgYnrn9W9RykMfpeeVGw7h4IBvYikzpGUlmZTUafJw==",
+      "sha512": "g7i+/h9251NG6i5JzyeqhkiYEwNN1uKEWscA3bFVYClop8HZgGdwQYwEJuMErvHvwks6vUxX95LLMkScKt8TEA==",
       "type": "package",
       "path": "runtime.native.system.security.cryptography/4.0.0",
       "files": [
@@ -6991,7 +6992,7 @@
       ]
     },
     "System.Globalization.Extensions/4.0.1": {
-      "sha512": "KKo23iKeOaIg61SSXwjANN7QYDr/3op3OWGGzDzz7mypx0Za0fZSeG0l6cco8Ntp8YMYkIQcAqlk8yhm5/Uhcg==",
+      "sha512": "QVq0SqPka1mtHTFM7aEfncePha3t49rs6WyDyYRI4qDK1+eQRe3u6sqGGBFcOFFzZLAM3ZoKcijn2h68NCsBFg==",
       "type": "package",
       "path": "system.globalization.extensions/4.0.1",
       "files": [
@@ -7587,7 +7588,7 @@
       ]
     },
     "System.Net.Http/4.1.0": {
-      "sha512": "ULq9g3SOPVuupt+Y3U+A37coXzdNisB1neFCSKzBwo182u0RDddKJF8I5+HfyXqK6OhJPgeoAwWXrbiUXuRDsg==",
+      "sha512": "Ve8vcneE50S6BpvAzdFYbtcUy5I5q3JMZQYpBV9PLp+ISTr9F26DPUbRSTl0qOlcgFxO1NmJ8JXW3vjTkyL9fA==",
       "type": "package",
       "path": "system.net.http/4.1.0",
       "files": [
@@ -7711,11 +7712,12 @@
       ]
     },
     "System.Net.Primitives/4.0.11": {
-      "sha512": "hVvfl4405DRjA2408luZekbPhplJK03j2Y2lSfMlny7GHXlkByw1iLnc9mgKW0GdQn73vvMcWrWewAhylXA4Nw==",
+      "sha512": "UNWpd6SSb7+vR7xGVhEe1u24u2rP/wzFwu6cEEYoolXIKYpknzPKKr35x9rPS/vxXkirf5K9eXt9UMoyj6xIuQ==",
       "type": "package",
       "path": "system.net.primitives/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7872,11 +7874,12 @@
       ]
     },
     "System.Net.Sockets/4.1.0": {
-      "sha512": "xAz0N3dAV/aR/9g8r0Y5oEqU1JRsz29F5EGb/WVHmX3jVSLqi2/92M5hTad2aNWovruXrJpJtgZ9fccPMG9uSw==",
+      "sha512": "sjGhyp0oGSP/objbr6LMB0zmefwtRzrXxxks3DtRyKsSXGBsu+AkjgK0FeOEv7ob28WbKKE5WJx4qjaH4CNgGQ==",
       "type": "package",
       "path": "system.net.sockets/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -10108,11 +10111,12 @@
       ]
     },
     "System.Threading.Timer/4.0.1": {
-      "sha512": "saGfUV8uqVW6LeURiqxcGhZ24PzuRNaUBtbhVeuUAvky1naH395A/1nY0P2bWvrw/BreRtIB/EzTDkGBpqCwEw==",
+      "sha512": "aqQ9xbORQFCFC43a/MIlbmBnDVHA8bOLDSbYDzbnbPW0DWBTv5K0q+zOX3ht5bE9qnDt31QYZVCcenP+N4XeSw==",
       "type": "package",
       "path": "system.threading.timer/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -10452,23 +10456,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IT-Department\\.nuget\\packages\\": {},
+    "C:\\Users\\Wu\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WebApi\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "H:\\WebApi\\WebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "E:\\WebApi\\WebApi\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\IT-Department\\.nuget\\packages\\",
-      "outputPath": "E:\\WebApi\\WebApi\\WebApi\\obj\\",
+      "projectPath": "H:\\WebApi\\WebApi\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\Wu\\.nuget\\packages\\",
+      "outputPath": "H:\\WebApi\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\IT-Department\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Wu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

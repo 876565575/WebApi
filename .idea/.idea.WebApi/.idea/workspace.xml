@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2569c20-9233-4fd8-bbfa-9c74300db383" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebApi/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebApi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebApi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebApi/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-05-07T103644.200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/netcoreapp2.2/WebApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/netcoreapp2.2/WebApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/Debug/netcoreapp2.2/WebApi.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/Debug/netcoreapp2.2/WebApi.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/WebApi.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApi/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebApi/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding>
+                <marker date="1557305286000" expanded="true" signature="6:346" ph="..." />
+                <marker date="1557305286000" expanded="true" signature="364:2335" ph="{...}" />
+                <marker date="1557305286000" expanded="true" signature="391:2333" ph="{...}" />
+                <marker date="1557305286000" expanded="true" signature="557:812" ph="{...}" />
+                <marker date="1557305286000" expanded="true" signature="1035:1665" ph="{...}" />
+                <marker date="1557305286000" expanded="true" signature="1220:1379" ph="{...}" />
+                <marker date="1557305286000" expanded="true" signature="1508:1652" ph="{...}" />
+                <marker date="1557305286000" expanded="true" signature="1878:2327" ph="{...}" />
+                <marker date="1557305286000" expanded="true" signature="1925:2002" ph="{...}" />
+                <marker date="1557305286000" expanded="true" signature="2019:2222" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApi/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApi/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApi/Properties/launchSettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebApi/Controllers/UserController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/dc/dbb3ca64/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/app.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/entity/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Controllers/MessageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Controllers/HelloWorldController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/log4net.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Filter/HttpGlobalExceptionFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Filter/PermissionRequiredAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Service/IUserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/data/UserContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Service/UserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/utils/Logger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebApi/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/WebApi/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Controllers/Controller1.cs" />
+        <option value="$PROJECT_DIR$/WebApi/data/data.cs" />
+        <option value="$PROJECT_DIR$/WebApi/data/DataContext.cs" />
+        <option value="$PROJECT_DIR$/WebApi/data/StudentContext.cs" />
+        <option value="$PROJECT_DIR$/WebApi/data/UserContext.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Filter/LoginFilter.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Filter/PermissionRequiredAttribute.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Service/IUserService.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Service/UserService.cs" />
+        <option value="$PROJECT_DIR$/WebApi/entity/User.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Controllers/UserController.cs" />
+        <option value="$PROJECT_DIR$/WebApi/log4net.xml" />
+        <option value="$PROJECT_DIR$/WebApi/Filter/MyExceptionFilter.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Controllers/HelloWorldController.cs" />
+        <option value="$PROJECT_DIR$/WebApi/utils/Logger.cs" />
+        <option value="$PROJECT_DIR$/WebApi/log4net.config" />
+        <option value="$PROJECT_DIR$/WebApi/log/2019-05-08.log2019-05-08.log" />
+        <option value="$PROJECT_DIR$/WebApi/Filter/HttpGlobalExceptionFilter.cs" />
+        <option value="D:/SmartCode.yml" />
+        <option value="$PROJECT_DIR$/WebApi/Startup.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Controllers/MessageController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="189" />
+    <option name="y" value="74" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WebApi" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WebApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WebApi" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/SmartSql-Starter/SmartSql.Starter.sln" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/api/helloworld" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.WebApi">
+    <configuration name="WebApi" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApi/WebApi.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="WebApi" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApi: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApi/WebApi.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.WebApi" />
+      <item itemvalue=".NET Launch Settings Profile.WebApi: IIS Express" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2569c20-9233-4fd8-bbfa-9c74300db383" name="Default Changelist" comment="" />
+      <created>1557235852125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557235852125</updated>
+      <workItem from="1557235853648" duration="9073000" />
+      <workItem from="1557277294545" duration="12825000" />
+      <workItem from="1557290557377" duration="5196000" />
+      <workItem from="1557303549265" duration="1610000" />
+      <workItem from="1557306605769" duration="893000" />
+      <workItem from="1557318385204" duration="671000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交">
+      <created>1557306698878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557306698878</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交">
+      <created>1557306723112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557306723112</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30268000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.5785482" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.3286334" />
+      <window_info anchor="bottom" id="NuGet" order="6" weight="0.4582882" />
+      <window_info anchor="bottom" id="Performance Profiler" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32949308" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="REST Client" order="13" weight="0.3488624" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.32719395" />
+      <window_info anchor="bottom" id="Run" order="17" weight="0.32756633" />
+      <window_info anchor="bottom" id="Change Signature" order="18" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/WebApi/Controllers/UserController.cs</url>
+          <line>23</line>
+          <properties documentPath="$PROJECT_DIR$/WebApi/Controllers/UserController.cs" initialLine="23">
+            <startOffsets>
+              <option value="-1" />
+            </startOffsets>
+            <endOffsets>
+              <option value="-1" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/89E901F5-02EC-4DB4-BBC5-F7BFEA24CDDA/99/bec88aea/IHostingEnvironment.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApi/WebApi.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/Controllers/Controller1.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/be/19a26adf/OkObjectResult.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApi/data/UserContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1557241616000" expanded="false" signature="6:57" ph="..." />
+            <marker date="1557241616000" expanded="true" signature="80:300" ph="{...}" />
+            <marker date="1557241616000" expanded="true" signature="123:298" ph="{...}" />
+            <marker date="1557241616000" expanded="true" signature="223:244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/9c/6628cf18/ContentResult.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87E8CE02-3EE4-404D-9082-6C8A5038171A/cf/8af7e452/AuthorizationFilterContext.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/c7/7d554bcb/HttpRequest.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CAD38FB-4B73-43EF-9855-687925A05C77/07/0cb9f2fc/HostFilteringMiddleware.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A0608D78-8A68-4C40-8858-FC61C813B64C/91/3c100efd/EndpointRoutingMiddleware.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/5e/15fb61f0/BadRequestResult.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8426252F-9318-4FF8-BCAF-CFC72DABA638/b5/06328042/MvcApiExplorerMvcCoreBuilderExtensions.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19E8EE8B-DFC6-4C19-B40E-5BCEE6998628/f3/47e42137/MvcCorsMvcCoreBuilderExtensions.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1542A513-5D72-47A0-92E8-7662B3BBDFD4/6f/382d9531/MvcServiceCollectionExtensions.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/34/c50d0e51/RouteAttribute.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/32C7DA0B-DE3E-4433-B1FA-3A6000248638/7d/28515fbb/ServiceCollectionServiceExtensions.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApi/Filter/PermissionRequiredAttribute.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApi/Service/IUserService.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApi/Service/UserService.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/dc/dbb3ca64/ControllerBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2826">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35D1D668-9205-4C08-8AC0-8401C2EDB00B/1d/d4211a1f/Controller.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApi/entity/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <marker date="1557285036000" expanded="true" signature="23:141" ph="{...}" />
+            <marker date="1557285036000" expanded="true" signature="47:139" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45D20605-9EC8-44F8-8A47-1D6E18421912/79/31290023/ILogger`1.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45D20605-9EC8-44F8-8A47-1D6E18421912/58/7aec9baf/ILogger.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApi/app.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2AEB18FB-ACB1-4135-B40E-8DCDE671F693/d5/2a57e313/ILog.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6406A499-4A55-4163-B6A5-381C7BEDE0F6/98/68cd7ad2/Logger.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApi/Controllers/UserController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1557286256000" expanded="true" signature="6:151" ph="..." />
+            <marker date="1557286256000" expanded="true" signature="265:777" ph="{...}" />
+            <marker date="1557286256000" expanded="true" signature="380:440" ph="{...}" />
+            <marker date="1557286256000" expanded="true" signature="568:771" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/utils/Logger.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApi/log/log2019-05-08-1203.txt" />
+    <entry file="file://$PROJECT_DIR$/WebApi/log/log2019-05-08-1208.txt" />
+    <entry file="file://$PROJECT_DIR$/WebApi/log4net.config" />
+    <entry file="file://$PROJECT_DIR$/WebApi/Filter/HttpGlobalExceptionFilter.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApi/Controllers/HelloWorldController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1557288062000" expanded="false" signature="6:73" ph="..." />
+            <marker date="1557288062000" expanded="true" signature="103:922" ph="{...}" />
+            <marker date="1557288062000" expanded="true" signature="212:920" ph="{...}" />
+            <marker date="1557288062000" expanded="true" signature="315:519" ph="{...}" />
+            <marker date="1557288062000" expanded="true" signature="441:508" ph="{...}" />
+            <marker date="1557288062000" expanded="true" signature="589:650" ph="{...}" />
+            <marker date="1557288062000" expanded="true" signature="722:785" ph="{...}" />
+            <marker date="1557288062000" expanded="true" signature="854:914" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/log/2019-05-08.log" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/2b/b7b41d8a/ResourceInvoker.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApi/log/2019-05-08.log2019-05-08.log" />
+    <entry file="file://D:/SmartCode.yml" />
+    <entry file="file://$PROJECT_DIR$/WebApi/Controllers/MessageController.cs" />
+    <entry file="file://$PROJECT_DIR$/.git/config" />
+    <entry file="file://$PROJECT_DIR$/WebApi/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <marker date="1557305286000" expanded="true" signature="6:346" ph="..." />
+            <marker date="1557305286000" expanded="true" signature="364:2335" ph="{...}" />
+            <marker date="1557305286000" expanded="true" signature="391:2333" ph="{...}" />
+            <marker date="1557305286000" expanded="true" signature="557:812" ph="{...}" />
+            <marker date="1557305286000" expanded="true" signature="1035:1665" ph="{...}" />
+            <marker date="1557305286000" expanded="true" signature="1220:1379" ph="{...}" />
+            <marker date="1557305286000" expanded="true" signature="1508:1652" ph="{...}" />
+            <marker date="1557305286000" expanded="true" signature="1878:2327" ph="{...}" />
+            <marker date="1557305286000" expanded="true" signature="1925:2002" ph="{...}" />
+            <marker date="1557305286000" expanded="true" signature="2019:2222" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApi/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
